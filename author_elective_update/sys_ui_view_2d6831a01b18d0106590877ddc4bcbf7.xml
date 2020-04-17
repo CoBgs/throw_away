@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>false</hidden>
+        <name>phonelistmaybe</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-17 15:28:18</sys_created_on>
+        <sys_id>2d6831a01b18d0106590877ddc4bcbf7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PhoneListMaybe</sys_name>
+        <sys_package display_value="ThrowAway" source="x_328973_throwaway">44c7f1931b4410106590877ddc4bcbaf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ThrowAway">44c7f1931b4410106590877ddc4bcbaf</sys_scope>
+        <sys_update_name>sys_ui_view_2d6831a01b18d0106590877ddc4bcbf7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-17 15:28:18</sys_updated_on>
+        <title>PhoneListMaybe</title>
+        <user/>
+    </sys_ui_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ThrowAway">44c7f1931b4410106590877ddc4bcbaf</application>
+        <file_path/>
+        <instance_id>99dacfebdb7677440b9d21c4059619c5</instance_id>
+        <instance_name>dev89540</instance_name>
+        <name>sys_ui_view_2d6831a01b18d0106590877ddc4bcbf7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view"><sys_ui_view action="INSERT_OR_UPDATE"><group/><hidden>false</hidden><name>phonelistmaybe</name><roles/><sys_class_name>sys_ui_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-17 15:28:18</sys_created_on><sys_id>2d6831a01b18d0106590877ddc4bcbf7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>PhoneListMaybe</sys_name><sys_package display_value="ThrowAway" source="x_328973_throwaway">44c7f1931b4410106590877ddc4bcbaf</sys_package><sys_policy/><sys_scope display_value="ThrowAway">44c7f1931b4410106590877ddc4bcbaf</sys_scope><sys_update_name>sys_ui_view_2d6831a01b18d0106590877ddc4bcbf7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-17 15:28:18</sys_updated_on><title>PhoneListMaybe</title><user/></sys_ui_view></record_update>]]></payload>
+        <payload_hash>-768483176</payload_hash>
+        <record_name>PhoneListMaybe</record_name>
+        <reverted_from/>
+        <source>9f29f4411b2300106590877ddc4bcb58</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2020-03-12 17:21:57</sys_created_on>
+        <sys_id>e5a93d241b18d0106590877ddc4bcb6e</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>170cfc45b080000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UI View</type>
+        <update_guid>a5a93d243018d0109e45b6dfc273d16e</update_guid>
+        <update_guid_history>a5a93d243018d0109e45b6dfc273d16e:-768483176</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>theTestUser</sys_created_by>
+        <sys_created_on>2020-04-17 15:33:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>5b945c48db8640eda97daa02adc80861</sys_id>
+        <sys_metadata>2d6831a01b18d0106590877ddc4bcbf7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PhoneListMaybe</sys_name>
+        <sys_package display_value="ThrowAway" source="x_328973_throwaway">44c7f1931b4410106590877ddc4bcbaf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ThrowAway">44c7f1931b4410106590877ddc4bcbaf</sys_scope>
+        <sys_scope_delete display_value="">9af876581b9441ac95daa915ead2d610</sys_scope_delete>
+        <sys_update_name>sys_ui_view_2d6831a01b18d0106590877ddc4bcbf7</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_2d6831a01b18d0106590877ddc4bcbf7">e5a93d241b18d0106590877ddc4bcb6e</sys_update_version>
+        <sys_updated_by>theTestUser</sys_updated_by>
+        <sys_updated_on>2020-04-17 15:33:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
